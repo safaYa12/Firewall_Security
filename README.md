@@ -1,4 +1,4 @@
-# Firewall$Security
+# Firewall&$ecurity
 4th Internship Project: Basic Firewall Management & Network Traffic Filtering!
 
 I’m excited to share that I have successfully completed another milestone in my cybersecurity internship, focused on strengthening network security through practical firewall configuration.
